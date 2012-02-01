@@ -1,0 +1,4 @@
+This is a simple dynamic config prototype. Zookeeper is used to store the config.
+
+Aborigine is a little special because it's intended to integrate with an A/B testing framework so that you can
+vary configs at runtime according to an A/B test.
